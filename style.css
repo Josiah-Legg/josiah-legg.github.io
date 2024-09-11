@@ -77,7 +77,7 @@ section .title::before {
     left: 50%;
     width: 180px;
     height: 3px;
-    background: #111;
+    background: #3f1d16;
     transform: translateX(-50%);
 }
 
@@ -393,14 +393,14 @@ section .title::after {
     font-size: 25px;
     font-weight: 500;
     margin: 10px 0 7px 0;
-    color: #18191d;
+    color: #3f1d16;
 }
 
 .services2 .serv-content .card2 .text {
     font-size: 20px;
     font-weight: 500;
     margin: 10px 0 7px 0;
-    color: #18191d;
+    color: #3f1d16;
 }
 
 
@@ -534,7 +534,7 @@ section .title::after {
     font-size: 25px;
     font-weight: 500;
     margin: 10px 0 7px 0;
-    color: #18191d;
+    color: #3f1d16;
 }
 
 .teams .carousel .card:hover .text {
@@ -542,7 +542,7 @@ section .title::after {
 }
 
 .teams .carousel .card p {
-    color: #18191d;
+    color: #3f1d16;
 }
 
 .teams .carousel .card .sub1 {
@@ -655,7 +655,7 @@ section .title::after {
 }
 
 .contact .contact-content .info .sub-title {
-    color: #333;
+    color: #3f1d16;
 }
 
 .contact .right form .fields {
@@ -729,7 +729,7 @@ section .title::after {
 
 /* footer section styling */
 footer {
-    background: #111;
+    background: #3f1d16;
     padding: 15px 23px;
     color: #fff;
     text-align: center;
@@ -775,7 +775,7 @@ footer span a:hover {
         width: 100%;
         left: -100%;
         top: 0;
-        background: #111;
+        background: #3f1d16;
         text-align: center;
         padding-top: 80px;
         transition: all 0.3s ease;
